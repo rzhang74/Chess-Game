@@ -1,6 +1,8 @@
 # Chess-Game
 A Chess Game application
 
+### Description
+
 This application contains the following functionality:
 
 0. Game Start, Restart, Forfeit operations allowed
