@@ -21,6 +21,8 @@ This application contains the following functionality:
 
 You can use the following test plan to verify if this application is working correctly :)
 
+### Test Plan
+
 The Manual test for the GUI basically contain the following part:
     1. Starting app and Moving a piece works as expected
     2. Start/Restart/forfeit works as expected
