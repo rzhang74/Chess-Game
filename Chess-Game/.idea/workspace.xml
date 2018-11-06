@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f0a152d-83eb-4491-b4c9-c083247658b7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1103579587">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="8849" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8849" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="460141588">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5988" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5988" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="263628084">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2593" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2593" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="67114580">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="java" value="46" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="46" />
+          <entry key="Markdown" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="14638" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="14638" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VC/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="104" column="49" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="49" />
+              <folding>
+                <element signature="method#View#0;class#View#0" />
+                <element signature="method#setUpinfoPanel#0;class#View#0" />
+                <element signature="method#initializeButtons#0;class#View#0" />
+                <element signature="method#addDifferntModeButtons#0;class#View#0" />
+                <element signature="method#removeAllButtons#0;class#View#0" />
+                <element signature="method#changeLabelColor#0;class#View#0" />
+                <element signature="method#render#0;class#View#0" />
+                <element signature="method#changeScore#0;class#View#0" />
+                <element signature="method#resetScore#0;class#View#0" />
+                <element signature="method#createIcon#0;class#View#0" />
+                <element signature="method#setUpMenu#0;class#View#0" />
+                <element signature="method#actionPerformed#0;class#View#0" />
+                <element signature="method#findButton#0;class#View#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/PieceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="203" column="59" lean-forward="true" selection-start-line="203" selection-start-column="59" selection-end-line="203" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#testMovePawn#0;class#PieceTest#0" />
+                <element signature="method#testMoveKing#0;class#PieceTest#0" />
+                <element signature="method#testMoveKnight#0;class#PieceTest#0" />
+                <element signature="method#testMoveRook#0;class#PieceTest#0" />
+                <element signature="method#testMoveBishop#0;class#PieceTest#0" />
+                <element signature="method#testMoveQueen#0;class#PieceTest#0" />
+                <element signature="method#testCheckKing#0;class#PieceTest#0" />
+                <element signature="method#testFirstPlayer#0;class#PieceTest#0" />
+                <element signature="method#testCopyConstructor#0;class#PieceTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BoardGame/BoardGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#BoardGame#0;class#BoardGame#0" />
+                <element signature="method#initBoard#0;class#BoardGame#0" />
+                <element signature="method#undoOperation#0;class#BoardGame#0" />
+                <element signature="method#checkIdentical#0;class#BoardGame#0" />
+                <element signature="method#deepCopy#0;class#BoardGame#0" />
+                <element signature="method#checkPiece#0;class#BoardGame#0" />
+                <element signature="method#setPiece#0;class#BoardGame#0" />
+                <element signature="method#getPiece#0;class#BoardGame#0" />
+                <element signature="method#checkKing#0;class#BoardGame#0" />
+                <element signature="method#getPieces#0;class#BoardGame#0" />
+                <element signature="method#getKingPos#0;class#BoardGame#0" />
+                <element signature="method#getKing#0;class#BoardGame#0" />
+                <element signature="method#getOpponent#0;class#BoardGame#0" />
+                <element signature="method#getColorOfPlayer#0;class#BoardGame#0" />
+                <element signature="method#checkLegalMovesExceptKing#0;class#BoardGame#0" />
+                <element signature="method#switchTurn#0;class#BoardGame#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Operation/Operation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+              <folding>
+                <element signature="method#Operation#0;class#Operation#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/annotated.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VC/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-826">
+              <caret line="189" column="40" selection-start-line="189" selection-start-column="40" selection-end-line="189" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Controller#0;class#Controller#0" />
+                <element signature="method#getPosition#0;class#Controller#0" />
+                <element signature="method#oneGameLoop#0;class#Controller#0" />
+                <element signature="method#updateScore#0;class#Controller#0" />
+                <element signature="method#forfeit#0;class#Controller#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>button</find>
+      <find>initializebutton</find>
+      <find>checkpiece</find>
+      <find>getStart</find>
+      <find>cells</find>
+      <find>500</find>
+      <find>update</find>
+      <find>seticon</find>
+      <find>intger</find>
+      <find>integ</find>
+      <find>Piece</find>
+      <find>checkKing</find>
+      <find>c</find>
+      <find>c3</find>
+      <find>copy</find>
+      <find>firstturn</find>
+      <find>checkmate</find>
+      <find>board</find>
+      <find>changesco</find>
+      <find>winner</find>
+      <find>add</find>
+      <find>switchmode</find>
+      <find>!!!</find>
+      <find>getcell</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Piece.java" />
+        <option value="$PROJECT_DIR$/src/Board.java" />
+        <option value="$PROJECT_DIR$/src/BoardGame.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Test/BoardTest.java" />
+        <option value="$PROJECT_DIR$/src/View.java" />
+        <option value="$PROJECT_DIR$/src/Controller.java" />
+        <option value="$PROJECT_DIR$/src/Pieces/Bishop.java" />
+        <option value="$PROJECT_DIR$/src/Pieces/Knight.java" />
+        <option value="$PROJECT_DIR$/src/Pieces/Queen.java" />
+        <option value="$PROJECT_DIR$/src/Pieces/Rook.java" />
+        <option value="$PROJECT_DIR$/src/Pieces/Spike.java" />
+        <option value="$PROJECT_DIR$/src/Pieces/King.java" />
+        <option value="$PROJECT_DIR$/src/Test/PieceTest.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Pieces/Pawn.java" />
+        <option value="$PROJECT_DIR$/src/Operation/Operation.java" />
+        <option value="$PROJECT_DIR$/src/BoardGame/BoardGame.java" />
+        <option value="$PROJECT_DIR$/src/Pieces/Destroyer.java" />
+        <option value="$PROJECT_DIR$/src/Pieces/Piece.java" />
+        <option value="$PROJECT_DIR$/src/VC/View.java" />
+        <option value="$PROJECT_DIR$/src/VC/Controller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="200" />
+    <option name="y" value="40" />
+    <option name="width" value="2800" />
+    <option name="height" value="1720" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HW1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW1.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW1.2" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW1.2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HW1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HW1.2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538434448757" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="View (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VC.View" />
+      <module name="HW1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="View" />
+      <module name="HW1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PieceTest.testCopyConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.PieceTest" />
+      <option name="METHOD_NAME" value="testCopyConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PieceTest.testMoveSpike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.PieceTest" />
+      <option name="METHOD_NAME" value="testMoveSpike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.View" />
+      <item itemvalue="JUnit.PieceTest.testMoveSpike" />
+      <item itemvalue="Application.View (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.PieceTest.testCopyConstructor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PieceTest.testCopyConstructor" />
+        <item itemvalue="Application.View (1)" />
+        <item itemvalue="Application.View" />
+        <item itemvalue="JUnit.PieceTest.testMoveSpike" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f0a152d-83eb-4491-b4c9-c083247658b7" name="Default Changelist" comment="" />
+      <created>1537041250286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537041250286</updated>
+      <workItem from="1537041251666" duration="17958000" />
+      <workItem from="1537062284151" duration="76000" />
+      <workItem from="1537062496462" duration="20201000" />
+      <workItem from="1537203547100" duration="15274000" />
+      <workItem from="1537652114211" duration="3814000" />
+      <workItem from="1537729757013" duration="8372000" />
+      <workItem from="1538336043236" duration="66000" />
+      <workItem from="1538336204064" duration="1180000" />
+      <workItem from="1538337446846" duration="331000" />
+      <workItem from="1538337854555" duration="51665000" />
+      <workItem from="1538404786542" duration="3270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PieceTest_testMoveDestroyer - 2018.09.23 at 16h 37m 48s.xml">
+      <configuration name="PieceTest.testMoveDestroyer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PieceTest_testMoveDestroyer - 2018.09.23 at 16h 38m 28s.xml">
+      <configuration name="PieceTest.testMoveDestroyer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PieceTest_testMoveSpike - 2018.09.23 at 16h 54m 51s.xml">
+      <configuration name="PieceTest.testMoveSpike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PieceTest_testMoveSpike - 2018.09.23 at 16h 58m 37s.xml">
+      <configuration name="PieceTest.testMoveSpike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PieceTest_testMoveSpike - 2018.09.23 at 17h 02m 25s.xml">
+      <configuration name="PieceTest.testMoveSpike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PieceTest_testMoveSpike - 2018.09.23 at 17h 03m 14s.xml">
+      <configuration name="PieceTest.testMoveSpike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PieceTest_testCopyConstructor - 2018.09.30 at 21h 51m 44s.xml">
+      <configuration name="PieceTest.testCopyConstructor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PieceTest_testCopyConstructor - 2018.09.30 at 21h 53m 39s.xml">
+      <configuration name="PieceTest.testCopyConstructor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PieceTest_testCopyConstructor - 2018.09.30 at 22h 11m 38s.xml">
+      <configuration name="PieceTest.testCopyConstructor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PieceTest_testCopyConstructor - 2018.09.30 at 22h 12m 13s.xml">
+      <configuration name="PieceTest.testCopyConstructor" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="122207000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1613" height="913" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2527331" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32926044" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3516624" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39897698" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32992327" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32990354" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24565916" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32926044" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3056266" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39897698" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32992327" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32990354" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Piece.java" />
+    <entry file="file://$PROJECT_DIR$/src/Pieces/Test.java" />
+    <entry file="file://$PROJECT_DIR$/../HW0/HW0/src/lanSimulation/LANSimulation.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/../HW0/HW0/src/lanSimulation/tests/LANTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test/BoardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testCreateBoard#0;class#BoardTest#0" />
+            <element signature="method#testPlayer#0;class#BoardTest#0" />
+            <element signature="method#testWinner#0;class#BoardTest#0" />
+            <element signature="method#testPiece#0;class#BoardTest#0" />
+            <element signature="method#testGetKingPos#0;class#BoardTest#0" />
+            <element signature="method#testGetOpponent#0;class#BoardTest#0" />
+            <element signature="method#testGetColorofPlayer#0;class#BoardTest#0" />
+            <element signature="method#testIsUnderCheck#0;class#BoardTest#0" />
+            <element signature="method#testCheckmate#0;class#BoardTest#0" />
+            <element signature="method#testStalemate#0;class#BoardTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View.java" />
+    <entry file="file://$PROJECT_DIR$/src/Controller.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pieces/King.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pieces/Knight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pieces/Queen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pieces/Rook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pieces/Bishop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pieces/Pawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316">
+          <caret line="60" column="72" selection-start-line="60" selection-start-column="72" selection-end-line="60" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pieces/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="71" column="138" selection-start-line="71" selection-start-column="138" selection-end-line="71" selection-end-column="138" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Piece#1;class#Piece#0" />
+            <element signature="method#checkThroughVertialHorizontal#0;class#Piece#0" />
+            <element signature="method#checkThroughDiagonal#0;class#Piece#0" />
+            <element signature="method#canMove#0;class#Piece#0" />
+            <element signature="method#move#0;class#Piece#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pieces/Destroyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="94" column="10" selection-start-line="94" selection-start-column="10" selection-end-line="94" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pieces/Spike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VC/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="104" column="49" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="49" />
+          <folding>
+            <element signature="method#View#0;class#View#0" />
+            <element signature="method#setUpinfoPanel#0;class#View#0" />
+            <element signature="method#initializeButtons#0;class#View#0" />
+            <element signature="method#addDifferntModeButtons#0;class#View#0" />
+            <element signature="method#removeAllButtons#0;class#View#0" />
+            <element signature="method#changeLabelColor#0;class#View#0" />
+            <element signature="method#render#0;class#View#0" />
+            <element signature="method#changeScore#0;class#View#0" />
+            <element signature="method#resetScore#0;class#View#0" />
+            <element signature="method#createIcon#0;class#View#0" />
+            <element signature="method#setUpMenu#0;class#View#0" />
+            <element signature="method#actionPerformed#0;class#View#0" />
+            <element signature="method#findButton#0;class#View#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/annotated.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/PieceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="203" column="59" lean-forward="true" selection-start-line="203" selection-start-column="59" selection-end-line="203" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testMovePawn#0;class#PieceTest#0" />
+            <element signature="method#testMoveKing#0;class#PieceTest#0" />
+            <element signature="method#testMoveKnight#0;class#PieceTest#0" />
+            <element signature="method#testMoveRook#0;class#PieceTest#0" />
+            <element signature="method#testMoveBishop#0;class#PieceTest#0" />
+            <element signature="method#testMoveQueen#0;class#PieceTest#0" />
+            <element signature="method#testCheckKing#0;class#PieceTest#0" />
+            <element signature="method#testFirstPlayer#0;class#PieceTest#0" />
+            <element signature="method#testCopyConstructor#0;class#PieceTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VC/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-826">
+          <caret line="189" column="40" selection-start-line="189" selection-start-column="40" selection-end-line="189" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Controller#0;class#Controller#0" />
+            <element signature="method#getPosition#0;class#Controller#0" />
+            <element signature="method#oneGameLoop#0;class#Controller#0" />
+            <element signature="method#updateScore#0;class#Controller#0" />
+            <element signature="method#forfeit#0;class#Controller#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoardGame/BoardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#BoardGame#0;class#BoardGame#0" />
+            <element signature="method#initBoard#0;class#BoardGame#0" />
+            <element signature="method#undoOperation#0;class#BoardGame#0" />
+            <element signature="method#checkIdentical#0;class#BoardGame#0" />
+            <element signature="method#deepCopy#0;class#BoardGame#0" />
+            <element signature="method#checkPiece#0;class#BoardGame#0" />
+            <element signature="method#setPiece#0;class#BoardGame#0" />
+            <element signature="method#getPiece#0;class#BoardGame#0" />
+            <element signature="method#checkKing#0;class#BoardGame#0" />
+            <element signature="method#getPieces#0;class#BoardGame#0" />
+            <element signature="method#getKingPos#0;class#BoardGame#0" />
+            <element signature="method#getKing#0;class#BoardGame#0" />
+            <element signature="method#getOpponent#0;class#BoardGame#0" />
+            <element signature="method#getColorOfPlayer#0;class#BoardGame#0" />
+            <element signature="method#checkLegalMovesExceptKing#0;class#BoardGame#0" />
+            <element signature="method#switchTurn#0;class#BoardGame#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Operation/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+          <folding>
+            <element signature="method#Operation#0;class#Operation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HW1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-3.8.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
